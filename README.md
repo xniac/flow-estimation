@@ -19,5 +19,5 @@ I coded the computer vision algorithm, built and tuned the Convolutional Neural 
 The system achieved an accurate detection of figures appeared in surveillance camera and effective identification of figures overlapping and projecting issues.
 
 **Additional video resources collected:**
-[Videos](https://drive.google.com/file/d/1YK7chsMmmB_eu01PyjdC62EodikwuAe9/view?usp=sharing)
+[Videos](https://drive.google.com/file/d/1YK7chsMmmB_eu01PyjdC62EodikwuAe9/view?usp=sharing)<br>
 The "Dataset" folder contains more training data. The "Output" folder some sample outputs. The "video" folder contains raw data to be processed.
